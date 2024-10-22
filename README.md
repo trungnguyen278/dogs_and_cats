@@ -1,4 +1,4 @@
-# Assignment 1: Image Classification
+# Image Classification
 Build a classification model for Kaggle's Dogs vs Cats dataset. Your goal is to identify the animal presents in the image.
 ## 1. Dataset
 The dataset [link](https://www.kaggle.com/c/dogs-vs-cats) from Kaggle site.
